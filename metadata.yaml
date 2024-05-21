@@ -1,0 +1,33 @@
+_repo: A-thousand-miles-on-an-elephant-in-the-Shan-States_73607
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hallett, Holt S. (Holt Samuel)
+    aliases:
+    - Hallett, Holt Samuel
+    - Hallett, H. S. (Holt Samuel)
+    birthdate: 1841
+    deathdate: 1911
+    gutenberg_agent_id: '57110'
+    url: http://www.gutenberg.org/2009/agents/57110
+description: ''
+gutenberg_issued: '2024-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73607'
+language: en
+pgterms:marc904: https://archive.org/details/thousandmilesone00hall/page/n1/mode/2up
+pgterms:marc905: 20201109214310hallett
+pgterms:marc906: '1890'
+pgterms:marc907: gb
+production_note: Richard Tonsing, Brian Wilson, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bWilliam Blackwood and Sons, $c1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A thousand miles on an elephant in the Shan States
+url: http://www.gutenberg.org/ebooks/73607
