@@ -1,5 +1,8 @@
 _repo: A-thousand-miles-on-an-elephant-in-the-Shan-States_73607
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73607-h/images/cover.jpg
 creator:
   author:
     agent_name: Hallett, Holt S. (Holt Samuel)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '57110'
     url: http://www.gutenberg.org/2009/agents/57110
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73607#A-thousand-miles-on-an-elephant-in-the-Shan-States
 gutenberg_issued: '2024-05-12'
 gutenberg_type: Text
 identifiers:
